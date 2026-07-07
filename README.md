@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📊 Sales Performance Dashboard
 
-# Run and deploy your AI Studio app
+## Overview
+This project analyzes sales data to identify revenue trends, profit margins, and top-performing products.
 
-This contains everything you need to run your app locally.
+## Features
+- Monthly Sales Analysis
+- Revenue Analysis
+- Profit Analysis
+- Top Products
+- Interactive Dashboard
 
-View your app in AI Studio: https://ai.studio/apps/35fc3974-cdb0-4323-a1bd-084750541234
+## Tools Used
+- Google AI Studio
+- HTML
+- CSS
+- JavaScript
 
-## Run Locally
+## Future Improvements
+- Add Power BI Dashboard
+- Add SQL Database
+- Add CSV Upload
+- Add Sales Forecasting
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Nagalaxmi Yanamala
