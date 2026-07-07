@@ -1,0 +1,6 @@
+{
+  "name": "Sales Performance Dashboard",
+  "description": "An interactive Power BI & Excel-inspired sales analytics dashboard with Excel/CSV imports, dynamic visualization, and an AI Sales Analyst powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
