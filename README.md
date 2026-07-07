@@ -17,10 +17,9 @@ This project analyzes sales data to identify revenue trends, profit margins, and
 - JavaScript
 
 ## Screenshots
-<img width="960" height="540" alt="Screenshot 2026-07-07 230647" src="https://github.com/user-attachments/assets/a990667b-8a74-420c-af8c-c70ee36105b5" />
-<img width="960" height="540" alt="Screenshot 2026-07-07 230745" src="https://github.com/user-attachments/assets/a6f98cd2-35d3-42fd-89cf-1d83aecab4dc" />
-<img width="960" height="540" alt="Screenshot 2026-07-07 230647" src="https://github.com/user-attachments/assets/c5843062-b544-4060-835a-435949569128" />
-<img width="960" height="540" alt="Screenshot 2026-07-07 230745" src="https://github.com/user-attachments/assets/3d93832c-3045-4117-8b19-ac6ed636bdec" />
+<img width="960" height="540" alt="Screenshot 2026-07-07 230647" src="https://github.com/user-attachments/assets/5c2b584d-dafb-4cfc-a306-2a6d54f12e31" />
+<img width="960" height="540" alt="Screenshot 2026-07-07 230715" src="https://github.com/user-attachments/assets/d39bfc0c-6db3-4303-97f2-625b386e6751" />
+<img width="960" height="540" alt="Screenshot 2026-07-07 230745" src="https://github.com/user-attachments/assets/e524eaed-953f-47ec-988c-0d35fa826620" />
 
 ## Future Improvements
 - Add Power BI Dashboard
